@@ -22,6 +22,7 @@ Voor de gene ontology (GO) verrijking werd goseq (Young et al., 2010) gebruikt, 
 Tot slot werd pathway-analyse uitgevoerd met pathview (Luo & Brouwer, 2013), gericht op de KEGG-pathway “Toll-like receptor signaling” (hsa04610), die is bepaald met de GO resultaten
 
 ![](./assets/Transcriptomics_flowschema.png)
+
 *Figuur 1: Flowschema van de complete RNA-seq data analyse.*
 
 ---
