@@ -62,3 +62,5 @@ Op basis van de RNA-seq data-analyse van personen met reumatoïde artritis (RA) 
 
 De KEGG-pathwayanalyse van de Complement and Coagulation Cascades (hsa04610) liet zien dat genen binnen zowel het complement- als het stollingssysteem significant op- of neergereguleerd zijn bij RA. Dit ondersteunt het idee dat verstoring van deze cascades een rol speelt in de pathofysiologie van RA (Ricklin et al., 2016).
 
+---
+# [Bronnen](./bronnen/bronnen.md)
