@@ -9,7 +9,7 @@ In dit project worden RNA-seq datasets van 4 RA-patiënten en 4 gezonde controle
 Hier zijn de volgende onderzoeksvragen bij opgesteld.
 *  Welke genen hebben een significant verschil in expressie bij mensen met Reuma?
 * Bij welke biologische processen zijn deze genen betrokken? 
-* welke pathways worden beinvloed door de verschillen in gen expressie
+* welke pathways worden beinvloed door de verschillen in gen expressie?
 
 ---
 ## Methode
@@ -17,9 +17,9 @@ De RNA-seq data-analyse werd uitgevoerd op monsters van vier personen met reuma 
 
 Vervolgens werd een count-matrix gegenereerd op basis van een bijbehorend GTF-bestand verkregen via Ensembl. De differentiële expressieanalyse werd uitgevoerd met het DESeq2-pakket (Love et al., 2014). Genen met een aangepaste p-waarde kleiner dan 0.05 werden beschouwd als significant.
 
-Voor de gene ontology (GO) verrijking werd goseq (Young et al., 2010) gebruikt, in combinatie met de annotatiepakketten org.Hs.eg.db en GO.db, om biologische processen (BP) van de differentieel tot expressie komende genexpressie te identificeren. Significante termen werden gevisualiseerd met ggplot2
+Voor de gene ontology (GO) verrijking werd goseq (Young et al., 2010) gebruikt, in combinatie met de annotatiepakketten org.Hs.eg.db en GO.db, om biologische processen (BP) van de differentieel tot expressie komende genexpressie te identificeren. Significante termen werden gevisualiseerd met ggplot2.
 
-Tot slot werd pathway-analyse uitgevoerd met pathview (Luo & Brouwer, 2013), gericht op de KEGG-pathway “Toll-like receptor signaling” (hsa04610), die is bepaald met de GO resultaten
+Tot slot werd pathway-analyse uitgevoerd met pathview (Luo & Brouwer, 2013), gericht op de KEGG-pathway “Toll-like receptor signaling” (hsa04610), die is bepaald met de GO resultaten.
 
 ![](./assets/Transcriptomics_flowschema.png)
 
@@ -28,6 +28,7 @@ Tot slot werd pathway-analyse uitgevoerd met pathview (Luo & Brouwer, 2013), ger
 ---
 ## Resultaten
 ### Genexpressie
+om de genexpressie te berekenen is een differentiële expressie analyse uitgevoerd op de count matrix. Hiermee wordt per gen de Log2 fold change berekend met bijbehorende significantie. In figuur 2 zijn de resultaten hiervan in een Volcano plot weergegeven.
 
 ![](./resultaten/VolcanoplotRA.png)
 
