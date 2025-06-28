@@ -27,7 +27,23 @@ Tot slot werd pathway-analyse uitgevoerd met pathview (Luo & Brouwer, 2013), ger
 
 ---
 ## Resultaten
+### Genexpressie
 
+![](./resultaten/VolcanoplotRA.png)
+
+*Figuur 2:*
+
+### Gene ontology enrichment
+
+![](./resultaten/GOseqRAplot.png)
+
+*Figuur 3:*
+
+### Complement and coagulation cascades pathway
+
+![](./resultaten/hsa04610.pathview.png)
+
+*Figuur 4:*
 
 
 
