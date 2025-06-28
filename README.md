@@ -6,7 +6,10 @@ Reumatoïde artritis (RA) is een chronische auto-immuunziekte die wordt gekenmer
 
 In dit project worden RNA-seq datasets van 4 RA-patiënten en 4 gezonde controles geanalyseerd met behulp van een differentiële expressieanalyse, KEGG analyse en een GO enrichment op gealignde en gesorteerde samples. Door deze analyses kunnen genen geïdentificeerd worden die significant anders tot expressie komen bij RA, wat inzicht geeft in ziekte-geassocieerde processen en kan bijdragen aan de ontwikkeling van gerichte therapieën (Smolen et al., 2016).
 
-
+Hier zijn de volgende onderzoeksvragen bij opgesteld.
+*  Welke genen hebben een significant verschil in expressie bij mensen met Reuma?
+* Bij welke biologische processen zijn deze genen betrokken? 
+* welke pathways worden beinvloed door de verschillen in expressie
 
 
 
