@@ -5,7 +5,7 @@ library(KEGGREST)
 library(EnhancedVolcano)
 library(pathview)
 
-counts <- read.csv("count_matrix_hs.txt", row.names = 1)
+counts <- read.csv("count_matrix_HS.csv", row.names = 1)
 
 treatment <- c("Control", "Control", "Control", "Control", "Reuma", "Reuma", "Reuma", "Reuma")
 treatment_table <- data.frame(treatment)
