@@ -12,3 +12,5 @@
 * Young, M. D., Wakefield, M. J., Smyth, G. K., & Oshlack, A. (2010). Gene ontology analysis for RNA-seq: accounting for selection bias. Genome Biology, 11(2), R14. https://doi.org/10.1186/gb-2010-11-2-r14
 
 * Luo, W., & Brouwer, C. (2013). Pathview: an R/Bioconductor package for pathway-based data integration and visualization. Bioinformatics, 29(14), 1830–1831. https://doi.org/10.1093/bioinformatics/btt285
+
+* Ricklin, D., Hajishengallis, G., Yang, K., & Lambris, J. D. (2016). Complement: a key system for immune surveillance and homeostasis. Nature Immunology, 17(9), 871–881. https://doi.org/10.1038/ni.3533
