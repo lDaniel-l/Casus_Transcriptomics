@@ -1,0 +1,4 @@
+# Github
+In dit project heb ik als data steward de projectgegevens beheerd. Alle methoden en resultaten zijn bijgehouden in een GitHub repository. Daarnaast is er een verslag geschreven om de resultaten te interpreteren. Dankzij deze repository kunnen de experimenten worden gereproduceerd, wat bijdraagt aan de transparantie en reproduceerbaarheid van het onderzoek.
+
+Als data steward heb ik gestreefd naar een logische en overzichtelijke structuur. Bestanden zijn voorzien van beschrijvende namen en onderverdeeld in logisch gecategoriseerde mappen, zodat de informatie gemakkelijk vindbaar en navolgbaar is.
